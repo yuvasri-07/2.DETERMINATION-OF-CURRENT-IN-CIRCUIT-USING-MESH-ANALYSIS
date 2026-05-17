@@ -22,6 +22,21 @@
 
 **CIRCUIT DIAGRAM:**
 
+
+<img width="806" height="1280" alt="image" src="https://github.com/user-attachments/assets/1e788305-b0c5-420a-b9e6-2ff8ae7073bd" />
+
+**CALCULATION:**
+
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/19aee02f-5052-41d5-847c-24d22a3145da" />
+<img width="851" height="1280" alt="image" src="https://github.com/user-attachments/assets/07f061fd-6c49-444d-a4f5-f828377d8920" />
+
+**MARK SPLIT-UP:**
+
+<img width="1280" height="911" alt="image" src="https://github.com/user-attachments/assets/a8324d21-03ae-4eb4-a9af-e8fcb633908f" />
+
+
+
+
 **PROCEDURE:** 
 
 1.	Give connections as per the circuit diagram.
